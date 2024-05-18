@@ -1,0 +1,9 @@
+
+.close,
+.container,
+.close ~ * {
+  --aside-width: 90px;
+}
+.close h2 {
+  opacity: 0;
+}

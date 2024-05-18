@@ -1,0 +1,14 @@
+.dark *,
+.dark *::-webkit-scrollbar,
+.dark i,
+.dark:not(button) {
+  background: var(--dark);
+  color: var(--white);
+}
+.dark .index-body {
+  background-color: black;
+}
+.dark .ellipsis {
+  background-color: #eef2f5;
+  color: #9fa2b4;
+}
